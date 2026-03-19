@@ -37,4 +37,3 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
   <a href="https://www.youtube.com/@InglesandoComigoOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-  ##
