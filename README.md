@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo(a) ao meu portfólio!
 Meu nome é José Lucas, mas também pode me chamar de JL 😁!
 
-- 💻 Estudando _Back-end development_;
+- 💻 Ciência da Computação - UFCG;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: HTML | CSS | JavaScript
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
 - 🌐️ Frameworks: React.js | Springboot
