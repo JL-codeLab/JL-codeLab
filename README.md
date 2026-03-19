@@ -26,6 +26,8 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😁!
   <img align="center" alt="JL-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
   <img align="center" alt="JL-Springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">          
 </div>
+
+
  
 <div> 
   <a href="https://discord.com/users/1360011228453273703" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
