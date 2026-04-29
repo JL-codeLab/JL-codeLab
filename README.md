@@ -10,7 +10,7 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
 ## Knowledges:
 
-<div style="display: block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="JL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <p>HTML</p>
   <img align="center" alt="JL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><p>CSS</p>
   <img align="center" alt="JL-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
