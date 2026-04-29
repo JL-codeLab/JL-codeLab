@@ -10,7 +10,7 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
 ## Knowledges:
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="center" alt="JL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <p>HTML</p>
   <img align="center" alt="JL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><p>CSS</p>
   <img align="center" alt="JL-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +23,10 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
   <p>SpringBoot</p>
   <img align="center" alt="JL-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> <p>React</p>
 </div>
+
+##
+
+<div 
 
 ##
  
