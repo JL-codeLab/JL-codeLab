@@ -6,22 +6,15 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
 - 🌐️ Frameworks: Spring Boot | React.js
 
-##
-
 ## Knowledges:
 
-<div style="display: inline-block">
-  <img align="center" alt="JL-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <p>HTML</p>
-  <img align="center" alt="JL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><p>CSS</p>
+<div style="display: inline-block"><br>
+  <img align="center" alt="JL-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JL-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <p>JavaScript</p>
   <img align="center" alt="JL-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <p>Java</p>
   <img align="center" alt="JL-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <p>Python</p>
   <img align="center" alt="JL-Springboot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <p>SpringBoot</p>
-  <img align="center" alt="JL-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> <p>React</p>
+  <img align="center" alt="JL-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/>
 </div>
 
 ##
