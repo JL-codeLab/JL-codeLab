@@ -26,8 +26,9 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
 ##
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jl-codelab&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-codelab&layout=compact&langs_count=8&theme=aura"/>
 </div>
 
 ##
