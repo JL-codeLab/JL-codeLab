@@ -1,12 +1,14 @@
 <div align="center">
 ## Olá, seja bem-vindo(a) ao meu portfólio!
 Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
+</div>
 
 - 💻 Estudando _back-end development_;
 - 👨🏻‍💻 Conhecimentos de _Front-end_: HTML | CSS | JavaScript
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
 - 🌐️ Frameworks: Spring Boot
 
+<div align="center">
 ## Knowledges:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
