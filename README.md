@@ -1,5 +1,5 @@
-<div align="center">
 ## Olá, seja bem-vindo(a) ao meu portfólio!
+<div align="center">
 Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 </div>
 
@@ -10,7 +10,9 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
 <div align="center">
 ## Knowledges:
+</div>
 
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
