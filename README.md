@@ -29,10 +29,10 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jl-codelab&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jl-codelab&layout=compact&langs_count=8&theme=gotham"/>
-</div>
+</div> -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jl-codelab&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
 </div>
