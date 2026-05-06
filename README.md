@@ -6,6 +6,8 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
 - 🌐️ Frameworks: Spring Boot
 
+##
+
 <div align="center">
   <img height="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
