@@ -20,7 +20,7 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"/>
 </div>
-
+  <img width="7" />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" alt="spring boot logo"/>
   <img width="7" />
