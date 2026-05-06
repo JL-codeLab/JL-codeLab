@@ -25,6 +25,7 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" alt="spring boot logo"/>
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"/>
 </div>
 
