@@ -9,8 +9,7 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 <div align="center">
 
   ## Knowledges:
-
-  <img width="7" />
+  <img height="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -21,8 +20,8 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"/>
 </div>
-  <img width="7" />
-<div align="center">
+  <img height="7" />
+  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45" alt="spring boot logo"/>
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo"/>
