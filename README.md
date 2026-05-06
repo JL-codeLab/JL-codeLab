@@ -7,8 +7,6 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 - 🌐️ Frameworks: Spring Boot
 
 <div align="center">
-
-   Knowledges:
   <img height="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="7" />
