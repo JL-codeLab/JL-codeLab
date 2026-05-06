@@ -1,4 +1,3 @@
-<div align="center">
 ## Olá, seja bem-vindo(a) ao meu portfólio!
 Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
@@ -7,9 +6,10 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 - 👨🏻‍💻 Conhecimentos de _Back-end_: Java (POO) | Python | JavaScript
 - 🌐️ Frameworks: Spring Boot
 
-## Knowledges:
-
 <div align="center">
+
+  ## Knowledges:
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -47,4 +47,3 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
   <a href="https://discord.com/users/1360011228453273703" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/@InglesandoComigoOficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-
