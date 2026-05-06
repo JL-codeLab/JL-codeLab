@@ -10,6 +10,7 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 
   ## Knowledges:
 
+  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
