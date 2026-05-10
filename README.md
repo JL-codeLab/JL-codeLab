@@ -36,7 +36,6 @@ Meu nome é José Lucas, mas também pode me chamar de JL 😄️!
 </div> -->
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jl-codelab&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JL-codeLab&theme=github-dark&border_radius=30&date_format=M%20j%5B%2C%20Y%5D&card_width=600&card_height=180&sideNums=14CF52&ring=20CAEB&fire=9BFF9E" alt="GitHub Streak" /></a>
 </div>
 
